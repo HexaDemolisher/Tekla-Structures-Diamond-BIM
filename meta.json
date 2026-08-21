@@ -1,0 +1,29 @@
+{
+  "repo": "tekla-structures-diamond-bim",
+  "product": "Tekla Structures Diamond BIM",
+  "kind": "cad",
+  "install_type": "nexpath",
+  "install_url": "https://tekla.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "cad",
+  "topics": [
+    "tekla-structures",
+    "bim-software",
+    "structural-steel",
+    "construction-modeling",
+    "3d-detailing",
+    "building-information",
+    "steel-detailing",
+    "civil-engineering",
+    "tekla-setup-failed-fix",
+    "how-to-install-tekla-structures",
+    "tekla-windows",
+    "engineering-tools",
+    "windows-tools",
+    "bim-utility"
+  ],
+  "stars_cache": 14,
+  "nexpath_slug": "tekla",
+  "nexpath_app_name": "Tekla Structures"
+}
